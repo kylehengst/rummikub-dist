@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.39c8ddf18ab8cbb67c18c31cab097a77.js"
+  "/precache-manifest.32dce911ff9ee9ba08926742ad69492f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "rummikub"});
