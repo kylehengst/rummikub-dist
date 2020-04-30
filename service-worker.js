@@ -14,10 +14,9 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b5f6305c5a8fee5d0a9d3fdd30da8fb7.js"
+  "/push-notifications.js",
+  "/precache-manifest.75cb8e24d9c98c52df6ae619d8be488c.js"
 );
-
-workbox.core.setCacheNameDetails({prefix: "rummikub"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
@@ -31,4 +30,6 @@ self.addEventListener('message', (event) => {
  * See https://goo.gl/S9QRab
  */
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
-workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
+workbox.precaching.precacheAndRoute(self.__precacheManifest, {
+  "ignoreURLParametersMatching": [/\/index\.html/]
+});
