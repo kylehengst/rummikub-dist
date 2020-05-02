@@ -1,7 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "732ce04ebc778e83ac27",
-    "url": "/css/app.cc8d1cde.css"
+    "revision": "42f36d393252c657b861",
+    "url": "/css/app.66f32793.css"
+  },
+  {
+    "revision": "8ddb91254337f6f371710c7d9a481ad3",
+    "url": "/env.js"
   },
   {
     "revision": "1ba2ae710d927f13d483fd5d1e548c9b",
@@ -64,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/mstile-150x150.png"
   },
   {
-    "revision": "f78c0251d6ddd56ee219a1830ded71b4",
+    "revision": "f22d501a35a87d9f21701cb031f6ea17",
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
@@ -72,12 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/joker.png"
   },
   {
-    "revision": "c190cbbb808d0bd8e70d765a4ebb3ab2",
+    "revision": "e5e1014acdd2759924a0d93a448e23ec",
     "url": "/index.html"
   },
   {
-    "revision": "732ce04ebc778e83ac27",
-    "url": "/js/app.96b69f93.js"
+    "revision": "42f36d393252c657b861",
+    "url": "/js/app.0170336e.js"
   },
   {
     "revision": "ab1ce6c1788f0f68d967",
@@ -92,14 +96,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "url": "/precache-manifest.721d1bad76f1b8a4f76bb8280bec9dea.js"
+    "url": "/precache-manifest.50cdc734bfe892480a20fa5a47db3468.js"
   },
   {
-    "revision": "735ab4f94fbcd57074377afca324c813",
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "b2122ed48ca2965005027b6e7957746d",
+    "revision": "510a7a2e66197a8c4319385f467f61dc",
     "url": "/service-worker.js"
+  },
+  {
+    "revision": "8443edee838a8e8813d8d1188f7f8cd8",
+    "url": "/sound/alert.mp3"
+  },
+  {
+    "revision": "840fbfa6409f440e5afa25b3c63cd5ca",
+    "url": "/sound/bell.mp3"
+  },
+  {
+    "revision": "a5bf069fe26c78d587e9e47a5c595de5",
+    "url": "/sound/cardPlace.mp3"
+  },
+  {
+    "revision": "fbcf2f73229ae7fa4c59958236951212",
+    "url": "/sound/chat.mp3"
   }
 ]);
