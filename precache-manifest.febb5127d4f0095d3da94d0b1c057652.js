@@ -208,7 +208,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/joker.png"
   },
   {
-    "revision": "1e1c48edbb353417db3d9ec0b49c4d23",
+    "revision": "c81af87c881ad56e4b2e2e6102c07cef",
     "url": "/index.html"
   },
   {
@@ -228,14 +228,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "url": "/precache-manifest.bfa74621a0abad329728062e89723e74.js"
+    "url": "/precache-manifest.9d64e0f35ddaa5f0662b2395a497566d.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "5a579fa6dd0e15ab23cd29f9de5dfd0a",
+    "revision": "86dc4ccb6dff302c6714231e924c5e72",
     "url": "/service-worker.js"
   },
   {
