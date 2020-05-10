@@ -60,6 +60,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/favicon-32x32.png"
   },
   {
+    "revision": "5d9d52d2031a7223c3b2602caff3742d",
+    "url": "/img/icons/icon-128x128.png"
+  },
+  {
+    "revision": "c64b344801ba02b7842a01f567fb346f",
+    "url": "/img/icons/icon-144x144.png"
+  },
+  {
+    "revision": "f49669967baa595dfa12afc8f225d906",
+    "url": "/img/icons/icon-152x152.png"
+  },
+  {
+    "revision": "dae758d8e42ea2290cb4ab7618c67142",
+    "url": "/img/icons/icon-192x192.png"
+  },
+  {
+    "revision": "ae357e524912e6f44ff80a94c001eec4",
+    "url": "/img/icons/icon-384x384.png"
+  },
+  {
+    "revision": "328d9a91cc081b57eb9dd2181002ddf5",
+    "url": "/img/icons/icon-512x512.png"
+  },
+  {
+    "revision": "8bc50794b25d14a47575ba40112795fb",
+    "url": "/img/icons/icon-72x72.png"
+  },
+  {
+    "revision": "a9a9b2df0a3ab410b4eb7f08aae3281a",
+    "url": "/img/icons/icon-96x96.png"
+  },
+  {
     "revision": "b89032a4a5a1879f30ba05a13947f26f",
     "url": "/img/icons/msapplication-icon-144x144.png"
   },
@@ -92,18 +124,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.1bb8b853.js.LICENSE.txt"
   },
   {
-    "revision": "97da6abbc07f90e095a42af269dfb2d8",
+    "revision": "c8ed0efd93e22edb68624f227317f7f8",
     "url": "/manifest.json"
   },
   {
-    "url": "/precache-manifest.f0e3cfc6a39a0a6f3a96f8e52dbc5e3f.js"
+    "url": "/precache-manifest.240b9caffbd9114d28e7ac762bd51e6c.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "516350f411521ff84e4ec3ecc0167531",
+    "revision": "1f9eec24eea7f694eee94aed5d80de8d",
     "url": "/service-worker.js"
   },
   {
