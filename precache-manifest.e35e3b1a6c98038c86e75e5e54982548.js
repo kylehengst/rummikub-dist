@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/apple-touch-icon.png"
   },
   {
-    "revision": "653d077300a12f09a69caeea7a8947f8",
+    "revision": "f73bf6563498707b332605b37170fa49",
     "url": "/img/icons/browserconfig.xml"
   },
   {
@@ -208,7 +208,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/joker.png"
   },
   {
-    "revision": "835ef7c1785e8acffe2854209cb1e6f0",
+    "revision": "eddc43d23fb06d8c60dda4ff134916e7",
     "url": "/index.html"
   },
   {
@@ -228,14 +228,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "url": "/precache-manifest.4c4719e9174db42518f7afedbba93a77.js"
+    "url": "/precache-manifest.13915b42df780c892bdc76cd31913f03.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "f9ad04f23b5b94b73d3b075c29447119",
+    "revision": "25e7be5894124b474009fc4c8b26285d",
     "url": "/service-worker.js"
   },
   {
