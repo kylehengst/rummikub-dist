@@ -208,7 +208,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/joker.png"
   },
   {
-    "revision": "eddc43d23fb06d8c60dda4ff134916e7",
+    "revision": "1e1c48edbb353417db3d9ec0b49c4d23",
     "url": "/index.html"
   },
   {
@@ -224,18 +224,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.1bb8b853.js.LICENSE.txt"
   },
   {
-    "revision": "c8ed0efd93e22edb68624f227317f7f8",
+    "revision": "a211aa6b33490da56defb43e31261e18",
     "url": "/manifest.json"
   },
   {
-    "url": "/precache-manifest.13915b42df780c892bdc76cd31913f03.js"
+    "url": "/precache-manifest.bfa74621a0abad329728062e89723e74.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "25e7be5894124b474009fc4c8b26285d",
+    "revision": "5a579fa6dd0e15ab23cd29f9de5dfd0a",
     "url": "/service-worker.js"
   },
   {
