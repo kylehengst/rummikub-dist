@@ -1,23 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df587db0297968a47385",
-    "url": "/css/app.7efcccaa.css"
-  },
-  {
-    "revision": "8ddb91254337f6f371710c7d9a481ad3",
-    "url": "/env.js"
+    "revision": "9812b83a72a3ffb31bc4",
+    "url": "/css/app.871a4883.css"
   },
   {
     "revision": "fddc268afabefc8d15bf2e1a28213a95",
     "url": "/img/joker.png"
   },
   {
-    "revision": "4281c478fe37502a67b51b0646b4be8e",
+    "revision": "688897bb56989e2f5ecea15d1253cda6",
     "url": "/index.html"
   },
   {
-    "revision": "df587db0297968a47385",
-    "url": "/js/app.8e935160.js"
+    "revision": "9812b83a72a3ffb31bc4",
+    "url": "/js/app.790d35a4.js"
   },
   {
     "revision": "7addda90e338e77586ce",
@@ -32,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
   },
   {

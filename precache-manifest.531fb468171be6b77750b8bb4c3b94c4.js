@@ -1,11 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df587db0297968a47385",
-    "url": "/css/app.7efcccaa.css"
-  },
-  {
-    "revision": "8ddb91254337f6f371710c7d9a481ad3",
-    "url": "/env.js"
+    "revision": "9812b83a72a3ffb31bc4",
+    "url": "/css/app.871a4883.css"
   },
   {
     "revision": "4e1d6d3e1946b38500d6979dd7227b6f",
@@ -120,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/apple-touch-icon.png"
   },
   {
-    "revision": "f73bf6563498707b332605b37170fa49",
+    "revision": "6511e2c026986bc431cc6f2c677a9f10",
     "url": "/img/icons/browserconfig.xml"
   },
   {
@@ -172,7 +168,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/icon-96x96.png"
   },
   {
-    "revision": "b58fcfa7628c9205cb11a1b2c3e8f99a",
+    "revision": "e50e6a1c9ed6452635d3211f39501e0d",
     "url": "/img/icons/manifest.json"
   },
   {
@@ -200,7 +196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/mstile-150x150.png"
   },
   {
-    "revision": "a6250f6d1f14b9e01512090197f180c0",
+    "revision": "f753a2cd6a2111bbaf99a041d425358d",
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
@@ -208,12 +204,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/joker.png"
   },
   {
-    "revision": "4281c478fe37502a67b51b0646b4be8e",
+    "revision": "688897bb56989e2f5ecea15d1253cda6",
     "url": "/index.html"
   },
   {
-    "revision": "df587db0297968a47385",
-    "url": "/js/app.8e935160.js"
+    "revision": "9812b83a72a3ffb31bc4",
+    "url": "/js/app.790d35a4.js"
   },
   {
     "revision": "7addda90e338e77586ce",
@@ -228,14 +224,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "url": "/precache-manifest.0c44d60c2ad5068d3ecb1826783b4b3a.js"
+    "url": "/precache-manifest.cb21bd8c6cbe056586ed8601e9fade3f.js"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
   },
   {
-    "revision": "2d24c33452e3f955b1cdbff4f94483e3",
+    "revision": "179805667e9086b789d92775be39899a",
     "url": "/service-worker.js"
   },
   {
