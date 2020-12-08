@@ -224,14 +224,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "url": "/precache-manifest.cb21bd8c6cbe056586ed8601e9fade3f.js"
+    "url": "/precache-manifest.04e2f2483890dcaf232e342d4c087580.js"
+  },
+  {
+    "revision": "e489ecb84a0d4c8a31e6e5744b4973f4",
+    "url": "/reset.html"
   },
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
   },
   {
-    "revision": "179805667e9086b789d92775be39899a",
+    "revision": "2242a5c41caebb3a49f4e972ead5f49c",
     "url": "/service-worker.js"
   },
   {
